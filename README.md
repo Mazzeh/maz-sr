@@ -22,13 +22,13 @@ Le pack ajoute des variations de vetements sur le composant `jbib` des ped model
 ## Gallery
 
 <p align="center">
-  <img src="jacket_savage_raiders_male.png" width="320" alt="Veste Savage Raiders homme" />
-  <img src="jacket_savage_raiders_female.png" width="320" alt="Veste Savage Raiders femme" />
+  <img src="images/jacket_savage_raiders_male.png" width="320" alt="Veste Savage Raiders homme" />
+  <img src="images/jacket_savage_raiders_female.png" width="320" alt="Veste Savage Raiders femme" />
 </p>
 
 <p align="center">
-  <img src="vest_savage_raiders_male.png" width="320" alt="Gilet Savage Raiders homme" />
-  <img src="vest_savage_raiders_female.png" width="320" alt="Gilet Savage Raiders femme" />
+  <img src="images/vest_savage_raiders_male.png" width="320" alt="Gilet Savage Raiders homme" />
+  <img src="images/vest_savage_raiders_female.png" width="320" alt="Gilet Savage Raiders femme" />
 </p>
 
 ## Compatibilite
